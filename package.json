@@ -1,0 +1,13 @@
+{
+  "name": "desafio-arquitetura-ia-boilerplate",
+  "version": "1.0.0",
+  "description": "Boilerplate para o desafio de refatoração com IA da Full Cycle",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "sqlite3": "^5.1.6"
+  }
+}
